@@ -13,13 +13,13 @@ IDE pode ser baixado gratuitamente em [https://arduino.cc](https://www.arduino.c
 ![Github](https://img.shields.io/github/v/release/arduino/Arduino)
 
 ## :books: Sobre o projeto
-Os projetos encontrados nesse repositório foram feitos com a finalidade de aprendizado do funcionamento do Arduino.
+Os projetos e o conteúdo encontrados nesse repositório foram feitos com a finalidade do meu aprendizado com Arduino. Minhas anotações e alguns conteúdos complementares estão aqui para leitura quando necessário.
 
 ## :floppy_disk: Conteúdo:
 
-<h3>Kit Arduino UNO R3 - Aprendizado:</h3>
+<h3>Kit Arduino Aprendizado:</h3>
 	<ul>
-		<li>placa arduino R3</li>
+		<li>1x Placa Arduino UNO R3</li>
 		<li>1x Cabo USB</li>
 		<li>1x Cabo de Salto Alto</li>
 		<li>1x Placa de Ensaio</li>
