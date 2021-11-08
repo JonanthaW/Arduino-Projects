@@ -61,3 +61,11 @@ Os projetos encontrados nesse repositório foram feitos com a finalidade de apre
 <div align="center">
 	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/assets/kit-1.jpeg" width="90%"/>
 </div>
+
+### Baixando o conteúdo
+
+<p>Fique a vontade para baixar este repositório e utilizá-lo da maneira que melhor preferir.</p>
+
+```bash
+$ git clone https://github.com/JonanthaW/Arduino-Projects.git
+```
