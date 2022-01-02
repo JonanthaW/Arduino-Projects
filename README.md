@@ -8,7 +8,7 @@ placa e um ambiente de desenvolvimento que implementa o Processamento / Fiação
 língua. Arduino pode ser usado para desenvolver objetos interativos autônomos ou
 pode ser conectado ao software em seu computador (por exemplo, Flash, Processing e MaxMSP).
 As placas podem ser montadas manualmente ou adquiridas pré-montadas; o código aberto
-IDE pode ser baixado gratuitamente em [https://arduino.cc](https://www.arduino.cc/en/Main/Software)
+IDE pode ser baixado gratuitamente em [https://arduino.cc](https://www.arduino.cc/en/Main/Software).
 
 ![Github](https://img.shields.io/github/v/release/arduino/Arduino)
 
