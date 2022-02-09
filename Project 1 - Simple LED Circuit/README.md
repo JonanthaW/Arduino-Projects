@@ -3,7 +3,8 @@
 	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%201%20-%20Simple%20LED%20Circuit/working.jpeg" width="50%" />
 </p>
 
-![Github](https://img.shields.io/github/v/release/arduino/Arduino)
+![Github](https://img.shields.io/badge/Difficulty-Easy-success)
+![Github](https://img.shields.io/github/last-commit/JonanthaW/Arduino-Projects)
 
 ## :books: About it
 In this project we are going to connect an LED to our ARDUINO board and make it stay on and/or blink.
