@@ -9,8 +9,7 @@
 In this project we are going to connect an LED to our ARDUINO board and make it stay on and/or blink.
 
 ## :floppy_disk: What will we use:
-
-	<ul>
+<ul>
 		<li>1x Arduino UNO</li>
 		<li>1x Protoboard</li>
 		<li>1x USB Cable</li>
