@@ -17,7 +17,7 @@ The projects and content found in this repository were made for the purpose of l
 
 ## :floppy_disk: Content:
 
-<h3>What is available to use:</h3>
+<h3>Things available to use:</h3>
 	<ul>
 		<li>1x Arduino UNO R3 Board</li>
 		<li>1x USB Cable</li>
