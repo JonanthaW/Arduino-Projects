@@ -13,11 +13,11 @@ IDE can be downloaded for free from [https://arduino.cc](https://www.arduino.cc/
 ![Github](https://img.shields.io/github/v/release/arduino/Arduino)
 
 ## :books: About it
-The projects and content found in this repository were made for the purpose of learning with Arduino. notes and some supplementary content are here for reading when needed. 
+The projects and content found in this repository were made for the purpose of learning Arduino. Notes and some supplementary content are here for reading when needed. 
 
 ## :floppy_disk: Content:
 
-<h3>Kit Arduino:</h3>
+<h3>What is available to use:</h3>
 	<ul>
 		<li>1x Arduino UNO R3 Board</li>
 		<li>1x USB Cable</li>
