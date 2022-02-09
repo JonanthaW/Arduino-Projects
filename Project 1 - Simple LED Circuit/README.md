@@ -11,11 +11,11 @@ In this project we are going to connect an LED to our ARDUINO board and make it 
 ## :floppy_disk: What will we use:
 <ul>
 		<li>1x Arduino UNO</li>
-		<li>1x Protoboard</li>
+		<li>1x BreadBoard/ProtoBoard</li>
 		<li>1x USB Cable</li>
 		<li>1x LED(Generic)</li>
 		<li>Jumper wires(generic)</li>
-		<li>1x Resistor 220 ohm/1k ohm</li>
+		<li>1x Resistor 220 ohm (Ω) /1k ohm (kΩ)</li>
 </ul>
 
 <div align="center">
@@ -24,9 +24,9 @@ In this project we are going to connect an LED to our ARDUINO board and make it 
 
 ### :bulb: Code:
 
-<p>Copy and paste this code into your Arduino IDE or Web Editor. </p>
+<p>After you build the circuit plug your Arduino board into your computer, start the Arduino Software (IDE) and enter the code below. </p>
 
-<p>To stay on</p>
+<p>Stay on</p>
 
 ```
 #define LED 13  // The pin the LED is connected to
