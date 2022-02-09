@@ -1,6 +1,6 @@
 # Arduino-Projects
 <p align="center">
-	<img src="http://content.arduino.cc/brand/arduino-color.svg" width="50%" />
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/assets/" width="50%" />
 </p>
 
 Arduino is an open source physical computing platform based on simple I/O
