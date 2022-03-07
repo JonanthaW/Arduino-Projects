@@ -7,7 +7,7 @@
 ![Github](https://img.shields.io/github/last-commit/JonanthaW/Arduino-Projects)
 
 ## :books: About it
-In this project we are going to connect an LED to our ARDUINO board and make it stay on and/or blink.
+In this project we connect a buzzer and a button to the arduino. When we click on the button, the buzzer is activated and projects sound at a certain frequency. Releasing it, the sound will stop.
 
 ## :floppy_disk: What will we use:
 <ul>
@@ -15,8 +15,8 @@ In this project we are going to connect an LED to our ARDUINO board and make it 
 		<li>1x BreadBoard/ProtoBoard</li>
 		<li>1x USB Cable</li>
 		<li>1x Buzzer/Piezo</li>
-		<li>Jumper wires(generic)</li>
 		<li>1x PushButton</li>
+		<li>Jumper wires(generic)</li>
 </ul>
 
 <div align="center">
@@ -26,6 +26,30 @@ In this project we are going to connect an LED to our ARDUINO board and make it 
 ### :bulb: Code:
 
 <p>After you build the circuit plug your Arduino board into your computer, start the Arduino Software (IDE) and enter the code below. </p>
+
+<p>You press and listen to a certain frequency</p>
+
+```
+int pushButton = 2;
+int frequency = 440; // You can change the Frequenzy(Hz) here.
+int buzzer = 9;
+
+void setup() {
+ pinMode(buzzer,OUTPUT);
+ pinMode(pushButton, INPUT_PULLUP);
+}
+ 
+void loop() {
+ if(digitalRead(pushButton) == LOW) {
+  	tone(buzzer,frequency);
+  }
+  else {
+  	noTone(buzzer);
+  }
+}
+```
+
+<p>The sound will gradually increase</p>/
 
 ```
 int pushButton = 2;
@@ -37,11 +61,9 @@ void setup() {
  pinMode(pushButton, INPUT_PULLUP);
 }
  
-void loop() {
- //buttonState = digitalRead(pushButton); 
-  
+void loop() {  
  if(digitalRead(pushButton) == LOW) {
-  	tone(buzzer,frequency);
+   tone(buzzer,frequency);
    frequency+=10;
    delay(500);
   }
