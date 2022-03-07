@@ -27,7 +27,7 @@ In this project we connect a buzzer and a button to the arduino. When we click o
 
 <p>After you build the circuit plug your Arduino board into your computer, start the Arduino Software (IDE) and enter the code below. </p>
 
-<p>You press and listen to a certain frequency</p>
+<p>You press and listen to a certain frequency:</p>
 
 ```
 int pushButton = 2;
@@ -48,8 +48,7 @@ void loop() {
   }
 }
 ```
-
-<p>The sound will gradually increase</p>/
+<p>The sound will gradually increase:</p>
 
 ```
 int pushButton = 2;
