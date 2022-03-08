@@ -1,6 +1,6 @@
 # Project 1 - Simple LED Circuit
 <p align="center">
-	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%201%20-%20Simple%20LED%20Circuit/working.jpeg" width="50%" />
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%201%20-%20Simple%20LED%20Circuit/working.jpg" width="50%" />
 </p>
 
 ![Github](https://img.shields.io/badge/Difficulty-Easy-success)
@@ -15,8 +15,8 @@ In this project we are going to connect an LED to our ARDUINO board and make it 
 		<li>1x BreadBoard/ProtoBoard</li>
 		<li>1x USB Cable</li>
 		<li>1x LED(Generic)</li>
-		<li>Jumper wires(generic)</li>
 		<li>1x Resistor 220 ohm (Ω) /1k ohm (kΩ)</li>
+		<li>Jumper wires(generic)</li>
 </ul>
 
 <div align="center">
