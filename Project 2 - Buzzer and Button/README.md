@@ -20,7 +20,7 @@ In this project we connect a buzzer and a button to the arduino. When we click o
 </ul>
 
 <div align="center">
-	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%202%20-%20Buzzer%20and%20Button/sketch.jpg" width="90%"/>
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%202%20-%20Buzzer%20and%20Button/sketch.gif" width="70%"/>
 </div>
 
 ### :bulb: Code:
