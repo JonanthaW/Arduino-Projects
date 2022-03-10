@@ -21,7 +21,7 @@ In this project we connect a Micro Servo and a LED to the arduino. When the Micr
 </ul>
 
 <div align="center">
-	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%203%20-%20Blinking%20with%20Servo/sketch.jpg" width="90%"/>
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%203%20-%20Blinking%20with%20Servo/sketch.gif" width="70%"/>
 </div>
 
 ### :bulb: Code:
