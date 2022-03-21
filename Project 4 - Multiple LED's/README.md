@@ -1,13 +1,13 @@
-# Project 3 - Blinking with Servo
+# Project 4 - Multiple LED's
 <p align="center">
-	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%204%20-%20Multiple%20LED's%20/working.jpg" width="50%" />
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%204%20-%20Multiple%20LED's/working.jpg" width="50%" />
 </p>
 
 ![Github](https://img.shields.io/badge/Difficulty-Easy-success)
 ![Github](https://img.shields.io/github/last-commit/JonanthaW/Arduino-Projects)
 
 ## :books: About it
-In this project we connect a Micro Servo and a LED to the arduino. When the Micro servo moves, the LED lights up and vice versa.
+In this project we connect Multiple LED's to the arduino and control them with pushbuttons.
 
 ## :floppy_disk: What will we use:
 <ul>
@@ -21,14 +21,14 @@ In this project we connect a Micro Servo and a LED to the arduino. When the Micr
 </ul>
 
 <div align="center">
-	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%204%20-%20Multiple%20LED's%20/sketch.gif" width="70%"/>
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%204%20-%20Multiple%20LED's/sketch.gif" width="70%"/>
 </div>
 
 ### :bulb: Code:
 
 <p>After you build the circuit plug your Arduino board into your computer, start the Arduino Software (IDE) and enter the code below. </p>
 
-<p>Turn it on:</p>
+<p>Code:</p>
 
 ```
 #define BUTTONGREEN 2
