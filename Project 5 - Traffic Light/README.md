@@ -1,6 +1,6 @@
 # Project 4 - Traffic Light
 <p align="center">
-	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%205%20-%Traffic%20Light/working.jpg" width="50%" />
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 5 - Traffic Light/working.jpg" width="50%" />
 </p>
 
 ![Github](https://img.shields.io/badge/Difficulty-Easy-success)
@@ -20,7 +20,7 @@ In this project we replicate a real traffic light using some LED's. It uses code
 </ul>
 
 <div align="center">
-	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%205%20-%Traffic%20Light/sketch.gif" width="70%"/>
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 5 - Traffic Light/sketch.gif" width="70%"/>
 </div>
 
 ### :bulb: Code:
