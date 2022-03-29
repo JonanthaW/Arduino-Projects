@@ -10,17 +10,18 @@
 In this project we will play music using a piezo and an Arduino. Every code here should run on every arduino board without problems. Just connect an piezo to the board and you are good to go.
 
 All credits goes to: https://github.com/robsoncouto/arduino-songs.
+
+
 You can get musics from here: https://dragaosemchama.com/en/2019/02/songs-for-arduino/
-Or you can create your own :).
+
+or you can create your own :).
 
 ## :floppy_disk: What will we use:
 <ul>
 		<li>1x Arduino UNO</li>
 		<li>1x BreadBoard/ProtoBoard</li>
 		<li>1x USB Cable</li>
-		<li>6x LED(Generic)</li>
-		<li>6x Resistor 220 ohm (Ω) /1k ohm (kΩ)</li>
-		<li>1x PushButton</li>
+		<li>1x Piezo</li>
 		<li>Jumper wires(generic)</li>
 </ul>
 
