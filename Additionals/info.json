@@ -1,0 +1,77 @@
+{
+ "project": {
+ "github" : "https://github.com/JonanthaW/Arduino-Projects",
+	"1": {
+		"name": "Simple LED Circuit",
+		"difficulty": "Easy",
+		"description": "In this project we are going to connect an LED to our ARDUINO board and make it stay on and/or blink.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable", "1x LED(Generic)", "1x Resistor 220 ohm (Ω) /1k ohm (kΩ)", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%201%20-%20Simple%20LED%20Circuit/sketch.jpg",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%201%20-%20Simple%20LED%20Circuit/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%201%20-%20Simple%20LED%20Circuit"
+		},
+	"2": {
+		"name": "Buzzer and Button",
+		"difficulty": "Easy",
+		"description": "In this project we connect a buzzer and a button to the arduino. When we click on the button, the buzzer is activated and projects sound at a certain frequency. Releasing it, the sound will stop.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable", "1x Buzzer/Piezo", "1x PushButton", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%202%20-%20Buzzer%20and%20Button/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%202%20-%20Buzzer%20and%20Button/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%202%20-%20Buzzer%20and%20Button"
+		},
+	"3": {
+		"name": "Blinking with Servo",
+		"difficulty": "Easy",
+		"description": "In this project we connect a Micro Servo and a LED to the arduino. When the Micro servo moves, the LED lights up and vice versa.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","1x LED(Generic)", "1x Resistor 220 ohm (Ω) /1k ohm (kΩ)", "1x MicroServo", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%203%20-%20Blinking%20with%20Servo/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%203%20-%20Blinking%20with%20Servo/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%203%20-%20Blinking%20with%20Servo"
+		},
+	"4": {
+		"name": "Multiple LEDs",
+		"difficulty": "Easy",
+		"description": "In this project we connect Multiple LED's to the arduino and control them with pushbuttons.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","3x LED(Generic)", "3x Resistor 220 ohm (Ω) /1k ohm (kΩ)", "3x PushButton", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%204%20-%20Multiple%20LED's/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%204%20-%20Multiple%20LED's/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%204%20-%20Multiple%20LED's"
+		},
+	"5": {
+		"name": "Traffic Light",
+		"difficulty": "Easy",
+		"description": "In this project we replicate a real traffic light using some LED's. It uses code as an internal timer and continues to run until you cut the Arduino's power supply.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","3x LED(Generic)", "3x Resistor 220 ohm (Ω) /1k ohm (kΩ)", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%205%20-%20Traffic%20Light/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%205%20-%20Traffic%20Light/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%205%20-%20Traffic%20Light"
+		},
+	"6": {
+		"name": "Random LED Colors",
+		"difficulty": "Easy",
+		"description": "In this project we will put an RGB LED to show random colors. Simple and Easy.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","1x LED RGB", "1x Resistor 220 ohm (Ω) /1k ohm (kΩ)", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%206%20-%20Random%20LED%20Colors/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%206%20-%20Random%20LED%20Colors/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%206%20-%20Random%20LED%20Colors"
+		},
+	"7": {
+		"name": "LED Dice",
+		"difficulty": "Easy",
+		"description": "In this project we will build a circuit that will generate a random number between 0 and 6 and show it using LED'S, while the PushButton is pressed.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","6x LED(Generic)", "6x Resistor 220 ohm (Ω) /1k ohm (kΩ)","1x PushButton", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%207%20-%20LED%20Dice"
+		},
+	"8": {
+		"name": "Music",
+		"difficulty": "Easy",
+		"description": "In this project we will play music using a piezo and an Arduino. Every code here should run on every arduino board without problems. Just connect an piezo to the board and you are good to go. All credits goes to: https://github.com/robsoncouto/arduino-songs. You can get musics from here: https://dragaosemchama.com/en/2019/02/songs-for-arduino/",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","1x Piezo", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%208%20-%20Music/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%208%20-%20Music/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%208%20-%20Music"
+		}
+	}
+}
