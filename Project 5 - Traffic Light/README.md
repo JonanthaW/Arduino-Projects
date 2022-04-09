@@ -1,4 +1,4 @@
-# Project 4 - Traffic Light
+# Project 5 - Traffic Light
 <p align="center">
 	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 5 - Traffic Light/working.jpg" width="50%" />
 </p>
