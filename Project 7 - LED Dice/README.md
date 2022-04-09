@@ -1,4 +1,4 @@
-# Project  - LED Dice
+# Project 7 - LED Dice
 <p align="center">
 	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 7 - LED Dice/working.jpg" width="50%" />
 </p>
