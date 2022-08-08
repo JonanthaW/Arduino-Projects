@@ -1,6 +1,6 @@
 # Project 9 - 2 - Seven Display ON/OFF Anode
 <p align="center">
-	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 9-1 -Seven Display ON or OFF Anode/sketch.jpg" width="50%" />
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 9-2 -Seven Display ON or OFF Anode/sketch.jpg" width="50%" />
 </p>
 
 ![Github](https://img.shields.io/badge/Difficulty-Easy-success)
@@ -21,7 +21,7 @@ In this project we connect a 7 Segment Display and control it with Anode common.
 </ul>
 
 <div align="center">
-	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 9-1 -Seven Display ON or OFF Anode/sketch.gif" width="70%"/>
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 9-2 -Seven Display ON or OFF Anode/sketch.gif" width="70%"/>
 </div>
 
 ### :bulb: Code:
