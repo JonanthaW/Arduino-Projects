@@ -1,6 +1,6 @@
-# Project 9 - 1 - Seven Display ON/OFF Cathode
+# Project 9 - 2 - Seven Display ON/OFF Anode
 <p align="center">
-	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 9-1 -Seven Display ON or OFF Cathode/sketch.jpg" width="50%" />
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 9-1 -Seven Display ON or OFF Anode/sketch.jpg" width="50%" />
 </p>
 
 ![Github](https://img.shields.io/badge/Difficulty-Easy-success)
@@ -8,7 +8,7 @@
 
 ## :books: About it
 
-In this project we connect a 7 Segment Display and control it with cathode common.
+In this project we connect a 7 Segment Display and control it with Anode common.
 
 ## :floppy_disk: What will we use:
 <ul>
@@ -16,12 +16,12 @@ In this project we connect a 7 Segment Display and control it with cathode commo
 		<li>1x BreadBoard/ProtoBoard</li>
 		<li>1x USB Cable</li>
 		<li>1x 7 Segment Display</li>
-		<li>1x Resistor 220 ohm (Ω) /1k ohm (kΩ)</li>
+		<li>8x Resistor 220 ohm (Ω) /1k ohm (kΩ)</li>
 		<li>Jumper wires(generic)</li>
 </ul>
 
 <div align="center">
-	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 9-1 -Seven Display ON or OFF Cathode/sketch.gif" width="70%"/>
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 9-1 -Seven Display ON or OFF Anode/sketch.gif" width="70%"/>
 </div>
 
 ### :bulb: Code:
@@ -38,14 +38,15 @@ void setup()
   }
 }
 
-void loop() {
+void loop()
+{
   for(int i=1; i<=8; i++) {
-  	digitalWrite(i,HIGH);
+  	digitalWrite(i, HIGH);
   }
-  delay(1000);
+  delay(1000); // Wait for 1000 millisecond(s)
   for(int i=1; i<=8; i++) {
-  	digitalWrite(i,LOW);
+  	digitalWrite(i, LOW);
   }
-  delay(1000);
+  delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
