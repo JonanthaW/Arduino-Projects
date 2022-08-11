@@ -21,6 +21,7 @@ The projects and content found in this repository were made for the purpose of l
 </div>
 
 ## :bomb: Additionals:
+JSON available with projects.
  * [Projects JSON](https://github.com/JonanthaW/Arduino-Projects/blob/main/Additionals/info.json)
 
 ## :writing_hand: Projects:
@@ -32,6 +33,15 @@ The projects and content found in this repository were made for the purpose of l
  * [Project 6 - Random LED Colors](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%206%20-%20Random%20LED%20Colors)
  * [Project 7 - LED Dice](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%207%20-%20LED%20Dice)
  * [Project 8 - Music](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%208%20-%20Music)
+ * [Project 9 - Seven Display ON or OFF Cathode](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%209%20-Seven%20Display%20ON%20or%20OFF%20Cathode)
+ * [Project 9 - Seven Display ON/OFF Anode](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%209%20-Seven%20Display%20ON%20or%20OFF%20Anode)
+ * [Project 10 - SOON]
+ * [Project 11 - Servo with Button](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%2011%20-%20Servo%20with%20Button)
+ * [Project 12 - Random LEDS](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%2012%20-%20Random%20LEDS)
+ * [Project 13 - Potato Battery](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%2013%20-%20Potato%20Battery)
+ * [Project 14 - Lemon Battery](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%2014%20-%20Lemon%20Battery)
+ * [Project 15 - Coin Battery](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%2015%20-%20Coin%20Battery)
+ * [Project 16 - Solar Energy Controller](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%2016%20-%20Solar%20Energy%20Controller)
 
 ### :bulb: Downloading content
 

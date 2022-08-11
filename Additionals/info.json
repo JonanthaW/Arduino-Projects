@@ -72,6 +72,96 @@
 		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%208%20-%20Music/sketch.gif",
 		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%208%20-%20Music/working.jpg",
 		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%208%20-%20Music"
-		}
+		},
+	"7": {
+		"name": "LED Dice",
+		"difficulty": "Easy",
+		"description": "In this project we will build a circuit that will generate a random number between 0 and 6 and show it using LED'S, while the PushButton is pressed.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","6x LED(Generic)", "6x Resistor 220 ohm (Ω) /1k ohm (kΩ)","1x PushButton", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%207%20-%20LED%20Dice"
+		},
+	"7": {
+		"name": "LED Dice",
+		"difficulty": "Easy",
+		"description": "In this project we will build a circuit that will generate a random number between 0 and 6 and show it using LED'S, while the PushButton is pressed.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","6x LED(Generic)", "6x Resistor 220 ohm (Ω) /1k ohm (kΩ)","1x PushButton", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%207%20-%20LED%20Dice"
+		},
+	"7": {
+		"name": "LED Dice",
+		"difficulty": "Easy",
+		"description": "In this project we will build a circuit that will generate a random number between 0 and 6 and show it using LED'S, while the PushButton is pressed.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","6x LED(Generic)", "6x Resistor 220 ohm (Ω) /1k ohm (kΩ)","1x PushButton", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%207%20-%20LED%20Dice"
+		},
+	"7": {
+		"name": "LED Dice",
+		"difficulty": "Easy",
+		"description": "In this project we will build a circuit that will generate a random number between 0 and 6 and show it using LED'S, while the PushButton is pressed.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","6x LED(Generic)", "6x Resistor 220 ohm (Ω) /1k ohm (kΩ)","1x PushButton", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%207%20-%20LED%20Dice"
+		},
+	"7": {
+		"name": "LED Dice",
+		"difficulty": "Easy",
+		"description": "In this project we will build a circuit that will generate a random number between 0 and 6 and show it using LED'S, while the PushButton is pressed.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","6x LED(Generic)", "6x Resistor 220 ohm (Ω) /1k ohm (kΩ)","1x PushButton", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%207%20-%20LED%20Dice"
+		},
+	"7": {
+		"name": "LED Dice",
+		"difficulty": "Easy",
+		"description": "In this project we will build a circuit that will generate a random number between 0 and 6 and show it using LED'S, while the PushButton is pressed.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","6x LED(Generic)", "6x Resistor 220 ohm (Ω) /1k ohm (kΩ)","1x PushButton", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%207%20-%20LED%20Dice"
+		},
+	"7": {
+		"name": "LED Dice",
+		"difficulty": "Easy",
+		"description": "In this project we will build a circuit that will generate a random number between 0 and 6 and show it using LED'S, while the PushButton is pressed.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","6x LED(Generic)", "6x Resistor 220 ohm (Ω) /1k ohm (kΩ)","1x PushButton", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%207%20-%20LED%20Dice"
+		},
+	"7": {
+		"name": "LED Dice",
+		"difficulty": "Easy",
+		"description": "In this project we will build a circuit that will generate a random number between 0 and 6 and show it using LED'S, while the PushButton is pressed.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","6x LED(Generic)", "6x Resistor 220 ohm (Ω) /1k ohm (kΩ)","1x PushButton", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%207%20-%20LED%20Dice"
+		},
+	"7": {
+		"name": "LED Dice",
+		"difficulty": "Easy",
+		"description": "In this project we will build a circuit that will generate a random number between 0 and 6 and show it using LED'S, while the PushButton is pressed.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","6x LED(Generic)", "6x Resistor 220 ohm (Ω) /1k ohm (kΩ)","1x PushButton", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%207%20-%20LED%20Dice"
+		},
+	"7": {
+		"name": "LED Dice",
+		"difficulty": "Easy",
+		"description": "In this project we will build a circuit that will generate a random number between 0 and 6 and show it using LED'S, while the PushButton is pressed.",
+		"components": ["1x Arduino UNO", "1x BreadBoard", "1x USB Cable","6x LED(Generic)", "6x Resistor 220 ohm (Ω) /1k ohm (kΩ)","1x PushButton", "Jumper wires(Generic)"],
+		"image-sketch": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/sketch.gif",
+		"image-live": "https://github.com/JonanthaW/Arduino-Projects/blob/main/Project%207%20-%20LED%20Dice/working.jpg",
+		"link": "https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%207%20-%20LED%20Dice"
+		},
 	}
 }
