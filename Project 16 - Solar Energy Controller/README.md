@@ -1,6 +1,6 @@
 # Project 16 - Solar Energy Controller
 <p align="center">
-	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 16 - Solar Energy Controller/sketch.jpg" width="50%" />
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 16 - Solar Energy Controller/working.jpg" width="50%" />
 </p>
 
 ![Github](https://img.shields.io/badge/Difficulty-Easy-success)

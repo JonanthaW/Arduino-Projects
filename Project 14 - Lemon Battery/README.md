@@ -1,6 +1,6 @@
 # Project 14 - Lemon Battery
 <p align="center">
-	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 14 - Lemon Battery/sketch.jpg" width="50%" />
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 14 - Lemon Battery/working.jpg" width="50%" />
 </p>
 
 ![Github](https://img.shields.io/badge/Difficulty-Easy-success)

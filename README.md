@@ -33,9 +33,8 @@ JSON available with projects.
  * [Project 6 - Random LED Colors](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%206%20-%20Random%20LED%20Colors)
  * [Project 7 - LED Dice](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%207%20-%20LED%20Dice)
  * [Project 8 - Music](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%208%20-%20Music)
- * [Project 9 - Seven Display ON or OFF Cathode](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%209%20-Seven%20Display%20ON%20or%20OFF%20Cathode)
- * [Project 9 - Seven Display ON/OFF Anode](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%209%20-Seven%20Display%20ON%20or%20OFF%20Anode)
- * [Project 10 - SOON]
+ * [Project 9 - Seven Display ON or OFF Cathode](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%209-1%20-Seven%20Display%20ON%20or%20OFF%20Cathode)
+ * [Project 9 - Seven Display ON/OFF Anode](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%209-2%20-Seven%20Display%20ON%20or%20OFF%20Anode)
  * [Project 11 - Servo with Button](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%2011%20-%20Servo%20with%20Button)
  * [Project 12 - Random LEDS](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%2012%20-%20Random%20LEDS)
  * [Project 13 - Potato Battery](https://github.com/JonanthaW/Arduino-Projects/tree/main/Project%2013%20-%20Potato%20Battery)

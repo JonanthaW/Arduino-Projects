@@ -1,6 +1,6 @@
 # Project 15 - Coin Battery
 <p align="center">
-	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 15 - Coin Battery/sketch.jpg" width="50%" />
+	<img src="https://github.com/JonanthaW/Arduino-Projects/blob/main/Project 15 - Coin Battery/working.jpg" width="50%" />
 </p>
 
 ![Github](https://img.shields.io/badge/Difficulty-Easy-success)
